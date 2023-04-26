@@ -22,7 +22,7 @@ Make sure to replace `/path/to/document.docx` with the path to the docx file you
 
 ## License
 
-This program is licensed under the MIT license. The Facebook/BART-large-cnn model is also licensed under the MIT license, and is credited to the Facebook AI Research team.
+The Facebook/BART-large-cnn model is also licensed under the MIT license, and is credited to the Facebook AI Research team.
 
 ## Credits
 
