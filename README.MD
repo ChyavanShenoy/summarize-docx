@@ -1,6 +1,6 @@
 # Docx Summarizer using Facebook/BART-large-cnn
 
-This program uses the Facebook/BART-large-cnn model to summarize any given docx files. It is licensed under the MIT license.
+This program uses the Facebook/BART-large-cnn model which is licensed under the MIT license.
 
 ## Installation
 
