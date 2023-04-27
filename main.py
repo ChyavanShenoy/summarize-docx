@@ -17,6 +17,7 @@ if device == "cuda":
         "summarization", model=f"{model_creator}/{model_name}", device=0
     )
 else:
+    print("Use a GPU for faster inference")
     summarizer = pipeline("summarization", model=f"{model_creator}/{model_name}")
 
 print(f"Took {time.time() - start_time} seconds to load summarizer\n")
